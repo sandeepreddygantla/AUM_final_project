@@ -132,10 +132,14 @@ th, td {
 }
 
 th {
-    background-color: rgb(182, 181, 181);
+    background-color: rgb(129, 129, 129);
+}
+
+tr {
+    background-color: rgb(169, 168, 168);
 }
 
 tr:hover {
-    background-color: #cfcece;
+    background-color: #9a9a9a;
 }
 
